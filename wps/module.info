@@ -1,0 +1,10 @@
+{
+    "author": "Whistle Master",
+    "description": "WPS brute force attack using custom Reaver, Bully, and Pixiewps scripts by adde88. Edited by m5kro aka kraken5 to support new firmwares.",
+    "devices": [
+        "nano",
+        "tetra"
+    ],
+    "title": "wps",
+    "version": "1.8"
+}
