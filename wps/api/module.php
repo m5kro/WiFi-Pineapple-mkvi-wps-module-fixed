@@ -93,18 +93,18 @@ class wps extends Module
     {
         if (!$this->checkDeps("reaver")) {
             if (file_exists('/sd/modules/wps/scripts/dependencies.sh')) {
-                $this->execBackground("/sd/modules/wps/scripts/dependencies.sh install ".$this->request->destination);
+                $this->execBackground("bash /sd/modules/wps/scripts/dependencies.sh install ".$this->request->destination);
                 $this->response = array('success' => true);
             } else {
-                $this->execBackground("/pineapple/modules/wps/scripts/dependencies.sh install ".$this->request->destination);
+                $this->execBackground("bash /pineapple/modules/wps/scripts/dependencies.sh install ".$this->request->destination);
                 $this->response = array('success' => true);
             }
         } else {
             if (file_exists('/sd/modules/wps/scripts/dependencies.sh')) {
-                $this->execBackground("/sd/modules/wps/scripts/dependencies.sh remove");
+                $this->execBackground("bash /sd/modules/wps/scripts/dependencies.sh remove");
                 $this->response = array('success' => true);
             } else {
-                $this->execBackground("/pineapple/modules/wps/scripts/dependencies.sh remove");
+                $this->execBackground("bash /pineapple/modules/wps/scripts/dependencies.sh remove");
                 $this->response = array('success' => true);
             }
         }
