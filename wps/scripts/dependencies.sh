@@ -14,6 +14,7 @@ if [ "$1" = "install" ]; then
      opkg install /pineapple/modules/wps/ipks/bully_1.4-1_mips_24kc.ipk
      opkg install /pineapple/modules/wps/ipks/pixiewps-custom_1.4.2-3_mips_24kc.ipk
      opkg install libpcap
+     chmod +x /pineapple/modules/wps/scripts/wps.sh
 
   elif [ "$2" = "sd" ]; then
      opkg update
@@ -22,6 +23,7 @@ if [ "$1" = "install" ]; then
      opkg -d sd install /sd/modules/wps/ipks/bully_1.4-1_mips_24kc.ipk
      opkg -d sd install /sd/modules/wps/ipks/pixiewps-custom_1.4.2-3_mips_24kc.ipk
      opkg -d sd install libpcap
+     chmod +x /sd/modules/wps/scripts/wps.sh
 
   fi
   
