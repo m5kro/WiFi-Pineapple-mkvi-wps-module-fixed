@@ -1,6 +1,6 @@
 # WiFi Pineapple nano and tetra wps module fixed
 
-Note: this branch is for testing edits to fit xchwarze's updated versions of the wifi pineapple firmware. Current goal is to get scan to properly mark wps networks.
+Note: this branch is for testing edits to fit xchwarze's updated versions of the wifi pineapple firmware. C̶u̶r̶r̶e̶n̶t̶ ̶g̶o̶a̶l̶ ̶i̶s̶ ̶t̶o̶ ̶g̶e̶t̶ ̶s̶c̶a̶n̶ ̶t̶o̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶ ̶m̶a̶r̶k̶ ̶w̶p̶s̶ ̶n̶e̶t̶w̶o̶r̶k̶s̶.̶ Goals reached.
 
 The wps module for the WiFi Pineapple nano and tetra. It has been edited by m5kro (aka kraken5) to run properly on the latest firmwares.  Thanks to Whistle Master for the original and adde88 for the updated reaver, bully, and pixiewps ipks.
 
