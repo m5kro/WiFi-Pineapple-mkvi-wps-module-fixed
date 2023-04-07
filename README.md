@@ -1,4 +1,6 @@
 # WiFi Pineapple nano and tetra wps module fixed
+Note: use the test branch if you want to install reaver and bully through repositories instead of the ipks
+
 The wps module for the WiFi Pineapple nano and tetra. It has been edited by m5kro (aka kraken5) to run properly on the latest firmwares.  Thanks to Whistle Master for the original and adde88 for the updated reaver, bully, and pixiewps ipks.
 
 After downloading, place the wps folder in either /pineapple/modules or /sd/modules. Once the files are there, reboot the pineapple. Then at the web interface go to the wps module and install dependencies.
