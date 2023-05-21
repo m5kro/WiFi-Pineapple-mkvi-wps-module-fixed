@@ -1,5 +1,5 @@
 # WiFi Pineapple nano and tetra wps module fixed
-Note: If you are getting error 161 it may be an issue with newer libpcap versions. I am trying to compile an older version but so far its not working. If anyone has an older version of libpcap for the wifi pineapple (somewhere between 0.8 and 1.4) or knows how to compile it without errors please tell me in the issues section.
+Note: If you are getting error 161 it may be an issue with newer libpcap versions. I am trying to compile an older version but so far its not working. If anyone has an older version of libpcap for the wifi pineapple nano or tetra (somewhere between 0.8 and 1.4) or knows how to compile it without errors please tell me in the issues section.
 
 The wps module for the WiFi Pineapple nano and tetra. It has been edited by m5kro (aka kraken5) to run properly on the latest firmwares.  Thanks to Whistle Master for the original and adde88 for the updated reaver, bully, and pixiewps ipks.
 
