@@ -1,6 +1,6 @@
 # WiFi Pineapple nano and tetra wps module fixed
 
-Note: this branch is for installing dependencies through repositories. C̶u̶r̶r̶e̶n̶t̶ ̶g̶o̶a̶l̶ ̶i̶s̶ ̶t̶o̶ ̶g̶e̶t̶ ̶s̶c̶a̶n̶ ̶t̶o̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶ ̶m̶a̶r̶k̶ ̶w̶p̶s̶ ̶n̶e̶t̶w̶o̶r̶k̶s̶.̶ Goals reached.
+Note: this branch is for installing dependencies through repositories. C̶u̶r̶r̶e̶n̶t̶ ̶g̶o̶a̶l̶ ̶i̶s̶ ̶t̶o̶ ̶g̶e̶t̶ ̶s̶c̶a̶n̶ ̶t̶o̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶ ̶m̶a̶r̶k̶ ̶w̶p̶s̶ ̶n̶e̶t̶w̶o̶r̶k̶s̶.̶ Current goal is to add oneshot as an option.
 
 The wps module for the WiFi Pineapple nano and tetra. It has been edited by m5kro (aka kraken5) to run properly on the latest firmwares. If dependencies don't install correctly use the main branch with the ipks.
 
