@@ -2,7 +2,7 @@
 
 To Do:<br>
 add oneshot functionality<br>
-fix error 161<br>
+fix error 161 (probaby just ap rejecting wps)<br>
 
 The wps module for the WiFi Pineapple nano and tetra. It has been edited by m5kro (aka kraken5) to run properly on the latest firmwares.  Thanks to Whistle Master for the original and adde88 for the updated reaver, bully, and pixiewps ipks.
 
