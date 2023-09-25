@@ -1,5 +1,7 @@
 # WiFi Pineapple nano and tetra wps module fixed
 
+Project has been moved to [here.](https://github.com/xchwarze/wifi-pineapple-community)
+
 To Do:<br>
 add oneshot functionality<br>
 fix error 161 (probaby just ap rejecting wps)<br>
